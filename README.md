@@ -1,0 +1,2 @@
+# ScalaOmikuji
+おみくじ
